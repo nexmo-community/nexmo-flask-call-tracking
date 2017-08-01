@@ -1,0 +1,1 @@
+{"_default": {"1": {"name": "Test Campaign", "inbound_number": "441632960616", "redirect_number": "441632960616", "welcome_message": "/static/audio/calls-recorded.mp3", "is_active": true}}}
