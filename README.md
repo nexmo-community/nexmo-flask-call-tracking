@@ -1,5 +1,7 @@
 # Inbound voice call campaign tracking with Nexmo's voice API (example code)
 
+## ❗❗❗ **This repo is now deprecated. Check the [Vonage Developer Blog](https://developer.vonage.com/en/blog) for more blog posts and tutorials. For more sample Vonage projects, check the [Vonage Community GitHub repo](https://github.com/Vonage-Community).**
+
 ![Mixpanel screenshot](mixpanel.png)
 
 This is the example code for the Nexmo inbound call tracking tutorial.
